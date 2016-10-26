@@ -1,7 +1,37 @@
+
+
 * { box-sizing: border-box; }
 html, body { min-height: 100%; }
 img { width: 100%; }
 
+
 body {
     background: linear-gradient(rgb(46, 46, 46), rgb(0, 0, 0));
+}
+
+.wrapper {
+  // width: 400px;
+}
+
+.rocket-landing-pad {
+  // display: flex;
+  // align-items: flex-end;
+  // justify-content: flex-end;
+  // position: absolute;
+  // top: 0;
+  // left: 0;
+  padding-top: 20px;
+}
+
+.rocket {
+    // width: 200px;
+    // display: flex;
+    // align-items: flex-end;
+    animation-duration: 3s;
+    float: left;
+    width: 25%;
+
+    & img {
+      // flex: 1;
+    }
 }

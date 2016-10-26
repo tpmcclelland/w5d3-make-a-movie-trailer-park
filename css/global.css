@@ -13,3 +13,13 @@ img {
 body {
   background: linear-gradient(#2e2e2e, black);
 }
+
+.rocket-landing-pad {
+  padding-top: 20px;
+}
+
+.rocket {
+  animation-duration: 3s;
+  float: left;
+  width: 25%;
+}

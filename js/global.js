@@ -22,3 +22,13 @@ var trailer1 = new Trailer('SNL - Black Jeopardy', 'O7VaXlMvAvk')
 var trailer2 = new Trailer('SNL - Third Debate', '-kjyltrKZSY')
 var trailer3 = new Trailer('SNL - Second Debate', '-nQGBZQrtT0')
 var trailer4 = new Trailer('SNL - 40th Anniversary', 'ImaYMoTi2g8')
+//
+// $('.button').sparkle({
+//   color: "#FFFFFF",
+//   count: 30,
+//   overlap: 0,
+//   speed: 1,
+//   minSize: 4,
+//   maxSize: 7,
+//   direction: "both"
+// });
